@@ -1,6 +1,6 @@
 [submodule "To-do-List---backend"]
-	path = backend
+	path = To-do-List---backend
 	url = https://github.com/Gui-Rigaud/To-do-List---backend.git
 [submodule "To-do-List---frontend"]
-	path = frontend
+	path = To-do-List---frontend
 	url = https://github.com/Gui-Rigaud/To-do-List---frontend.git
